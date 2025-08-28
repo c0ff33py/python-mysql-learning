@@ -1,25 +1,10 @@
-# Python MySQL learning Journey
+# Python MySQL Learning Journey
 
-## Project Structure
--   Database connection and operations
--   Data analysis with pandas
--   Data visualization
--   Real-world examples
+ဒီ repository မှာ Python နဲ့ MySQL ကို data analysis အတွက် လေ့လာတဲ့ သင်ခန်းစာတွေ ပါဝင်ပါတယ်။
 
-## Technologies Used
--   Python 3.x
--   MySQL
--   Pandas, Matplotlib, Seaborn
--   Jupyter Notebooks
+## Current Progress: Lesson 1.1
+- Basic MySQL connection
 
-##  Setup Instructions
-1.  Virtual environment activate : `source venv/bin/activate`
-2.  Install packages: `pip install -r requirements.txt`
-3.  Run MySQL server: `brew services start mysql`
+## File Structure
+အသေးစိတ် file organization ကို LEARNING_STRUCTURE.md မှာ ကြည့်ပါ။
 
-##  Learning Progress
--   Environment setup
--   Database connection
--   CRUD operations
--   Data analysis basics
--   Advanced queries
